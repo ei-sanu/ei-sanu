@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me someshranjanbiswal13678@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i don't trust a= 'fe', b = 'male', c = remove a, print(c)
 - 
 
 <!---
