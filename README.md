@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me someshranjanbiswal13678@gmail.com
+- 📫 How to reach me someshranjanbiswal13678@gmail.com  / someshranjanbiswal@outlook.com
 - 😄 Pronouns: ...
 - 
 
