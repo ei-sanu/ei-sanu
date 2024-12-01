@@ -1,6 +1,11 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Somesh Ranjan</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<div align="center">
+ <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&letterSpacing=bold&duration=4000&pause=1500&color=7B91FF&center=true&width=435&lines=HI%2C+There+%F0%9F%91%8B;I'm+Aditya" alt="Typing SVG" />
+ <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&letterSpacing=bold&duration=4000&pause=1500&color=AC99FF&center=true&width=800&height=80&lines=Problem-solver%2C+Developer%2C+and+Tech+Enthusiast" alt="Typing SVG" /></p>
+<!--    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding GIF"> -->
+ 
+   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="80%"  />
+</div>
 
 ---
 
