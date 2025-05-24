@@ -1,4 +1,9 @@
-# <div align="center">👋 Hello World! I'm Sanu</div>
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,100:2E2EFF&height=200&section=header&text=SOMESH&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" alt="Somesh's GitHub Banner"/>
+</p>
+
+<br/>
 
 <div align="center">
   
@@ -15,9 +20,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ei-sanu/ei-sanu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ## <div align="center">👨‍💻 About Me</div>
 
@@ -82,6 +84,62 @@ const aboutSanu = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ei-sanu&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
+<br>
+<!-- Terminal Animation Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;Ethical+Hacker;Linux+Power+User;Welcome+to+my+digital+realm" alt="Typing SVG" />
+</p>
+
+<!-- Matrix Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</p>
+
+<br/>
+## <div align="center">🌐 Operating Systems Experience</div> 
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>OS</th>
+      <th>Experience Level</th>
+      <th>Usage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🐧 <strong>Kali Linux</strong></td>
+      <td>
+        <span style="display:inline-block; animation:fadeIn 2s ease-in-out infinite alternate;">⭐⭐⭐⭐⭐</span>
+      </td>
+      <td>Current Primary OS</td>
+    </tr>
+    <tr>
+      <td>🐧 <strong>Linux Distributions</strong></td>
+      <td>
+        <span style="display:inline-block; animation:fadeIn 2s ease-in-out infinite alternate;">⭐⭐⭐⭐⭐</span>
+      </td>
+      <td>Power User</td>
+    </tr>
+    <tr>
+      <td>🪟 <strong>Windows</strong></td>
+      <td>
+        <span style="display:inline-block; animation:fadeIn 2s ease-in-out infinite alternate;">⭐⭐⭐⭐</span>
+      </td>
+      <td>Compatible</td>
+    </tr>
+    <tr>
+      <td>🍎 <strong>macOS</strong></td>
+      <td>
+        <span style="display:inline-block; animation:fadeIn 2s ease-in-out infinite alternate;">⭐⭐⭐⭐</span>
+      </td>
+      <td>Compatible</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 
 ## <div align="center">🏆 My Cybersecurity Journey</div>
 
@@ -101,35 +159,21 @@ const aboutSanu = {
 
 </div>
 
-## <div align="center">✨ Featured Projects</div>
+const funFacts = [
+    "🔥 I think in Python but dream in JavaScript",
+    "🐧 Linux terminal is my second home",
+    "🔐 I find vulnerabilities for breakfast",
+    "☕ Coffee is my debugging partner",
+    "🌙 Night owl coder and ethical hacker",
+    "🎵 'People You Know' on repeat while coding"
+];
 
+funFacts.forEach(fact => console.log(fact));
+🎵 Currently Vibing To
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl5d3Bza2k0ODM0cWkweDZlajI2NHU4enlrZXdmaXJqNjlrNXB2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif" width="300" />
+Show Image
+"Music fuels the code and the hack!" 🎧
 </div>
-
-### <div align="center">🌐 [Personal Portfolio](https://sanudeploys.netlify.app/)</div>
-<div align="center">
-  <p>My personal portfolio showcasing my projects, skills, and journey in web development and cybersecurity.</p>
-  <a href="https://sanudeploys.netlify.app/">
-    <img src="https://img.shields.io/badge/View_Live-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ei-sanu/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ei-sanu&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ei-sanu/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ei-sanu&repo=project2&theme=tokyonight" />
-  </a>
-</div>
-
-## <div align="center">🌟 3D Contribution Graph</div>
-
-<div align="center">
-  <img src="https://github.com/ei-sanu/ei-sanu/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contribution Graph"/>
-</div>
-
 ## <div align="center">🎯 Current Focus</div>
 
 <div align="center">
@@ -172,6 +216,11 @@ const aboutSanu = {
 </div>
 
 ## <div align="center">📫 Let's Connect!</div>
+<div align="center">
+  <a href="https://somesh.social" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-Click_Here-0abde3?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Somesh Portfolio" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://discord.gg/yourusername">
@@ -191,11 +240,15 @@ const aboutSanu = {
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV0b25xcXQzbnhwMXU2NGg5ZjcweTNqcWdyMm13d3JiaG00ZmV6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
   
-  ### Thanks for visiting! Have a great day! 👋
-  
 </div>
 
 <!-- 3D Text Effect -->
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F731&center=true&vCenter=true&repeat=false&random=false&width=435&lines=STAY+CURIOUS.+STAY+CODING." alt="Typing SVG" /></a>
-</div>
+<!-- Terminal Effect Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,100:2E2EFF&height=100&section=footer&animation=fadeIn" alt="Footer Wave"/>
+</p>
+
+```bash
+# Thanks for visiting my profile!
+echo "Happy Hacking! 🚀"
+```
