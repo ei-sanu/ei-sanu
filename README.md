@@ -108,7 +108,7 @@ const aboutSanu = {
   </thead>
   <tbody>
     <tr>
-      <td>🐧 <strong>Kali Linux</strong></td>
+      <td>🐧 <strong>Mac OS</strong></td>
       <td>
         <span style="display:inline-block; animation:fadeIn 2s ease-in-out infinite alternate;">⭐⭐⭐⭐⭐</span>
       </td>
@@ -126,14 +126,14 @@ const aboutSanu = {
       <td>
         <span style="display:inline-block; animation:fadeIn 2s ease-in-out infinite alternate;">⭐⭐⭐⭐</span>
       </td>
-      <td>Compatible</td>
+      <td>Advanced User</td>
     </tr>
     <tr>
-      <td>🍎 <strong>macOS</strong></td>
+      <td>🍎 <strong>Kali Linux</strong></td>
       <td>
         <span style="display:inline-block; animation:fadeIn 2s ease-in-out infinite alternate;">⭐⭐⭐⭐</span>
       </td>
-      <td>Compatible</td>
+      <td>Power User</td>
     </tr>
   </tbody>
 </table>
