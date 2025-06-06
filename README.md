@@ -87,9 +87,11 @@ const aboutSanu = {
 <br>
 <!-- Terminal Animation Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;Ethical+Hacker;Linux+Power+User;Welcome+to+my+digital+realm" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;Ethical+Hacker;Linux+Power+User;Welcome+to+my+digital+readme" alt="Typing SVG" />
 </p>
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ei-sanu&radius=16&theme=react-dark" alt="Contribution Graph" height="200px"/> 
+</p>
 <!-- Matrix Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation"/>
