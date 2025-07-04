@@ -30,7 +30,7 @@ const aboutSanu = {
   passion: "Building secure & elegant web solutions",
   focus: ["Cybersecurity", "Frontend Development"],
   currentLearning: "Advanced React Patterns",
-  portfolio: "https://sanudeploys.netlify.app/",
+  portfolio: "https://somesh.social/",
   funFact: "I transform complex concepts into intuitive designs!"
 };
 ```
