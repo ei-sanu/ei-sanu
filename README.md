@@ -6,13 +6,13 @@
 <br/>
 
 <div align="center">
-  
+
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFB6&center=true&vCenter=true&random=false&width=500&lines=Cybersecurity+Enthusiast;Frontend+Developer;Problem+Solver;Web+Development+Expert)
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm02MzBxbDYzb2E1aXM5ZWR4c25ocnhmN29yMHlvYnM5a3IzNzNqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="350"/>
-  
+
   🎓 **B.Tech CSE (CYBER SECURITY)** | Lovely Professional University
-  
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanu-ei)
   [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ei-sanu)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://somesh.social/)
@@ -21,7 +21,7 @@
 </div>
 
 
-## <div align="center">👨‍💻 About Meh!!</div>
+## <div align="center">👨‍💻 About Meh!</div>
 
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ3aTk2MWtld3p6emNwYndha3Bnc3JmYTVscWhzc2twOXN5YXRheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="250" height="170"/>
@@ -50,7 +50,7 @@ const aboutSanu = {
 ## <div align="center">🛠️ Tech Stack</div>
 
 <div align="center">
-  
+
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -91,7 +91,7 @@ const aboutSanu = {
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;Ethical+Hacker;Linux+Power+User;Welcome+to+my+digital+readme" alt="Typing SVG" />
 </p>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ei-sanu&radius=16&theme=react-dark" alt="Contribution Graph" height="200px"/> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ei-sanu&radius=16&theme=react-dark" alt="Contribution Graph" height="200px"/>
 </p>
 <!-- Matrix Animation -->
 <p align="center">
@@ -99,7 +99,7 @@ const aboutSanu = {
 </p>
 
 <br/>
-## <div align="center">🌐 Operating Systems Experience</div> 
+## <div align="center">🌐 Operating Systems Experience</div>
 <div align="center">
 <table>
   <thead>
@@ -155,7 +155,7 @@ const aboutSanu = {
 ```
 
 <div align="center">
-  
+
   [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ei-sanu)
   [![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/ei-sanu)
   [![CTF Badge](https://img.shields.io/badge/CTF_Player-%23FF4088.svg?style=for-the-badge&logo=counter-strike&logoColor=white)](https://ctftime.org/team/myteam)
@@ -197,13 +197,13 @@ Show Image
 </div>
 
 <div align="center">
-  
+
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-  
+
   <a href="https://open.spotify.com/user/yourusername">
     <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="350" />
   </a>
-  
+
 </div>
 
 ## <div align="center">🎮 Let's Play</div>
@@ -212,7 +212,7 @@ Show Image
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlmZnFsdGRsMHVnM2FxM2kxZ3E0M2FqZjgzZXlidmZrdXI3NzIwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="250" />
 
   <p>Choose your weapon:</p>
-  
+
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
   ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
@@ -238,11 +238,11 @@ Show Image
 </div>
 
 <div align="center">
-  
+
   ![](https://komarev.com/ghpvc/?username=ei-sanu&color=blueviolet&style=for-the-badge)
-  
+
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV0b25xcXQzbnhwMXU2NGg5ZjcweTNqcWdyMm13d3JiaG00ZmV6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
-  
+
 </div>
 
 <!-- 3D Text Effect -->
