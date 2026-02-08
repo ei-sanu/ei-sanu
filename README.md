@@ -11,7 +11,7 @@
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm02MzBxbDYzb2E1aXM5ZWR4c25ocnhmN29yMHlvYnM5a3IzNzNqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="350"/>
 
-  🎓 **B.Tech CSE (CYBER SECURITY)** | Lovely Professional University
+  🎓 **B.Tech CSE (CYBER SECURITY)** | Lovely Professional University!!
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanu-ei)
   [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ei-sanu)
